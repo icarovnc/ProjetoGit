@@ -1,1 +1,4 @@
-print(olá, mundo)
+import funções
+funções('Olá, mundo')
+
+#kkkk
